@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi 👋, I'm Aryan Goyal
 
-<!--
-**aaryaangoyal/aaryaangoyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE-AI Student  
+💻 Passionate about AI, Startups & Development  
+🚀 Building AI-powered projects  
+🏋️ Gym & Powerlifting Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack
+
+- Python
+- C++
+- JavaScript
+- React
+- Git & GitHub
+
+---
+
+# 🚀 Projects
+
+## Government Scheme Finder
+AI-based platform to help users find government schemes easily.
+
+## MockMate
+AI-powered mock interview platform.
+
+---
+
+# 📈 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=aaryaangoyal&show_icons=true&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com?user=aaryaangoyal&theme=tokyonight)
+
+---
+
+# 🌐 Connect With Me
+
+- GitHub: https://github.com/aaryaangoyal
+
+---
+
+![](https://komarev.com/ghpvc/?username=aaryaangoyal)
